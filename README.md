@@ -1,19 +1,32 @@
 # Gym Management System
 
-🌐 Main Website
-http://tammu.great-site.net/
+A web-based management application developed to streamline gym member registrations, schedule tracking, and administrative tasks. 
 
-🔗 Live Demo
--  Registration Form: http://tammu.great-site.net/
--  Admin Panel: http://tammu.great-site.net/admin_panel.php
-## Features
-- Gym registration form
-- Admin panel
-- Schedule management
-- Data stored in MySQL database
+---
 
-## Technologies Used
-- PHP
-- MySQL
-- HTML
-- CSS
+## 🔗 Live Links
+
+* **Main Website & Registration:** [tammu.great-site.net](http://tammu.great-site.net/)
+* **Admin Panel:** [tammu.great-site.net/admin_panel.php](http://tammu.great-site.net/admin_panel.php)
+
+### 🔑 Demo Login Credentials (Admin)
+Feel free to test the admin features using the login details below:
+* **Username:** `admin`
+* **Password:** `admin123`
+
+---
+
+## ✨ Features
+
+* **Member Registration:** Easy online form for new members to register.
+* **Schedule Management:** Organized tracking and updates for gym class/workout schedules.
+* **Admin Dashboard:** Central panel for managing member records and administrative tasks.
+* **Database Management:** Secure data handling and storage.
+
+---
+
+## Tech Stack
+
+* **Frontend:** HTML, CSS
+* **Backend:** PHP
+* **Database:**MYSQL
