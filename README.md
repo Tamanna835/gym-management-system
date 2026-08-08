@@ -16,7 +16,7 @@ Feel free to test the admin features using the login details below:
 
 ---
 
-## ✨ Features
+## Features
 
 * **Member Registration:** Easy online form for new members to register.
 * **Schedule Management:** Organized tracking and updates for gym class/workout schedules.
